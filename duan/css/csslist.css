@@ -1,0 +1,20 @@
+.moi{
+	margin-top: 20px;
+}
+.moi h3{
+	font-size: 18px;
+	color: #ffffff;
+	text-transform: uppercase;
+}
+.moi .sanpham{
+	margin: 0;
+}
+#newproduct{
+	border: 1px solid #ddd;
+	text-align: center;
+	padding: 15px;
+	position: relative;
+}
+#newproduct img{
+	margin-bottom: 15px;
+}
